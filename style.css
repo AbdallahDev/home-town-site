@@ -9,7 +9,7 @@ body {
 }
 
 #hero-section {
-  height: 700px;
+  height: 703px;
   background-image: linear-gradient(rgb(0 0 0 / 0%), rgb(0 0 0)),
     url(imgs/hero-img.jpg);
   background-position: center;
